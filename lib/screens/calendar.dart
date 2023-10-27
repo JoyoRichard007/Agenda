@@ -38,7 +38,8 @@ class _CalendarEventState extends State<CalendarEvent> {
         {"eventDescp": "Bonne année", "eventTitle": "Jour de l'an"},
       ],
       "2023-11-01": [
-        {"eventDescp": "Halloween 2023 ou Toussaint", "eventTitle": "Halloween"}
+        {"eventDescp": "Halloween 2023", "eventTitle": "Halloween"},
+        {"eventDescp": "Toussaint 2023", "eventTitle": "Toussaint"}
       ],
     };
   }
